@@ -1,0 +1,25 @@
+body {
+    background: rgb(39,184,225);
+    background: linear-gradient(90deg, rgba(39,184,225,1) 41%, rgba(233,243,191,1) 100%);
+}
+
+#container {
+    /* margin-top: 200px; */
+    width: 30%;
+    align-self: center;
+    margin: 100px auto;
+    /* height: 300px; */
+}
+
+.grayOut{
+    text-decoration:line-through;
+    color:gray;
+}
+
+
+/* span:hover {
+    display: inline;
+} */
+
+
+
